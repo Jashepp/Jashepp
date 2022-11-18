@@ -13,4 +13,4 @@ I like creating & sharing projects which I think may help others.
 - [eventemitter-wrapper](https://github.com/Jashepp/eventemitter-wrapper), a NodeJS module to wrap an EventEmitter to isolate new listeners from other listeners.
 
 ---
-If you share my interests, or if my work intrigues you, feel free to contact me via [email](mailto:unchosen.aus@gmail.com) or [twitter](https://twitter.com/MrUnchosen).
+If you share my interests, or if my work intrigues you, feel free to contact me via [email](mailto:unchosen.aus+github@gmail.com).
