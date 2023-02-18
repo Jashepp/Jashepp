@@ -7,6 +7,7 @@ I like creating & sharing projects which I think may help others.
 
 **Web Projects**:
 - [ce-mixinprops](https://github.com/Jashepp/customElements-mixinPropertiesAttributes), a mixin class for HTML Custom Elements (Web Components) to handle/sync properties and attributes.
+- ce-react, coming soon
 
 **NodeJS Projects**:
 - [express-middleware-management](https://github.com/Jashepp/express-middleware-management), a NodeJS module to manage middleware for ExpressJS applications on the fly.
