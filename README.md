@@ -4,10 +4,11 @@ Web dev, software dev, systems tinkerer, with quite a bit of interest in Docker,
 I like creating & sharing projects which I think may help others.\
 Out of the *many* (usually unfinished) hobby projects, some do get enough polish:
 
-**Front-End Web Libraries**:
+**Front-End Web**:
+- [scope-dom](https://github.com/Jashepp/Scope-dom), a library to enable declarative HTML logic & behaviour, with hierarchical scoping.
 - [ce-mixinprops](https://github.com/Jashepp/customElements-mixinPropertiesAttributes), a mixin class for HTML Custom Elements (Web Components) to handle/sync properties and attributes.
 
-**NodeJS Libraries**:
+**NodeJS**:
 - [express-middleware-management](https://github.com/Jashepp/express-middleware-management), a NodeJS module to manage middleware for ExpressJS applications on the fly.
 - [eventemitter-wrapper](https://github.com/Jashepp/eventemitter-wrapper), a NodeJS module to wrap an EventEmitter to isolate new listeners from other listeners.
 
