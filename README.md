@@ -30,4 +30,4 @@ I've created and worked on many things over the past 15+ years
 </details>
 
 ---
-If you share my interests, or if my work/experience intrigues you, feel free to contact me via [email](mailto:unchosen.aus+github@gmail.com) (for professional matters), or [sponsor](https://github.com/sponsors/Jashepp) me for specific projects.
+If you share my interests, or if my work/experience intrigues you, feel free to contact me via [email](mailto:unchosen.aus+github@gmail.com) (for professional & personal matters), or [sponsor](https://github.com/sponsors/Jashepp) me for specific projects.
